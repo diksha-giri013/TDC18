@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#455A64</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#00c853</color>
+    <color name="colorHeading">#000000</color>
+    <color name="colorSubHeading">#212121</color>
+    <color name="colorSingleLineText">#424242</color>
+    <color name="colorParagraph">#616161</color>
+    <color name="colorAccentDark">#2e7d32</color>
+    <color name="gradBot">#263238</color>
+    <color name="gradTop">#37474f</color>
+    <color name="colorAccent2">#ffab00</color>
+</resources>
